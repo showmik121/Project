@@ -17,7 +17,7 @@ Developed a Value-for-Money (VFM) Index using Z-score normalization
 Cleaned complex fields (camera specs, battery, charging)
 Performed EDA on price vs performance and charging trends
 
-Dataset Link: 🔗 https://www.kaggle.com/datasets/showmik121/smartphones-dataset-2026-1000-devices
+My Dataset Link: 🔗 https://www.kaggle.com/datasets/showmik121/smartphones-dataset-2026-1000-devices
 
 
 👟 Cartup — Sneaker Trends & Pricing
