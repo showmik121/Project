@@ -17,6 +17,9 @@ Developed a Value-for-Money (VFM) Index using Z-score normalization
 Cleaned complex fields (camera specs, battery, charging)
 Performed EDA on price vs performance and charging trends
 
+Dataset Link: 🔗 https://www.kaggle.com/datasets/showmik121/smartphones-dataset-2026-1000-devices
+
+
 👟 Cartup — Sneaker Trends & Pricing
 Source: Cartup
 Highlights:
@@ -74,3 +77,7 @@ Data cleaning is essential, but feature engineering is what creates real value f
 ⭐ If you find this useful
 
 Feel free to star the repo and share your feedback!
+
+📬 Connect with Me
+If you find this data useful, feel free to give the repository a ⭐ and check out my work on other platforms:
+LinkedIn: https://www.linkedin.com/in/ahanaf-adil-showmik-244146252?utm_source=share_via&utm_content=profile&utm_medium=member_android
